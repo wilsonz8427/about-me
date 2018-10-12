@@ -5,7 +5,7 @@
 **Email** : wilsonz8427@hstat.org  
 **School** : High school of Telecommuncation Arts and Technology  
 
-#### Portfolio Links
+### Portfolio Links
 * **9th Grade**: Click [*here!*](https://sites.google.com/a/hstat.org/wilsonz8427sep09)  
   * Scratch, Robotics, and Python
 * **10th Grade**: Click [*here!*](https://sites.google.com/a/hstat.org/wilsonz8427sep10)  
@@ -13,7 +13,7 @@
 * **11th Grade**: Click [*here!*](https://sites.google.com/a/hstat.org/wilsonz8427sep11/home)
   * Git and Github, Web Design, and 3D Modeling
 
-#### Schedule
+### Schedule
 1. Study Hall
 2. AP Chemistry
 3. SEP
