@@ -13,7 +13,7 @@
 * **11th Grade**: Click [*here!*](https://sites.google.com/a/hstat.org/wilsonz8427sep11/home)
   * Git and Github, Web Design, and 3D Modeling
 
-### Schedule
+### Class Schedule
 1. Study Hall
 2. AP Chemistry
 3. SEP
